@@ -1,0 +1,75 @@
+/*
+ * Copyright 2025 The Backstage Authors
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+@layer tokens, base, components, utilities;
+
+@layer components {
+  .bui-PluginHeaderToolbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: var(--bui-space-5);
+    color: var(--bui-fg-primary);
+    height: 52px;
+    border-bottom: 1px solid var(--bui-border-1);
+  }
+
+  .bui-PluginHeaderToolbarContent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: var(--bui-space-2);
+  }
+
+  .bui-PluginHeaderToolbarName {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: var(--bui-space-2);
+    font-size: var(--bui-font-size-3);
+    font-weight: var(--bui-font-weight-regular);
+    flex-shrink: 0;
+  }
+
+  .bui-PluginHeaderToolbarIcon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 2rem;
+    height: 2rem;
+    border-radius: var(--bui-radius-2);
+    color: var(--bui-fg-primary);
+
+    & svg {
+      width: 1rem;
+      height: 1rem;
+    }
+  }
+
+  .bui-PluginHeaderToolbarControls {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: var(--bui-space-2);
+  }
+
+  .bui-PluginHeaderTabsWrapper {
+    padding-inline: var(--bui-space-3);
+    border-bottom: 1px solid var(--bui-border-1);
+  }
+}

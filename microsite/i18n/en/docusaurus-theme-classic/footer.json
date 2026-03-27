@@ -1,0 +1,66 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.What is Backstage?": {
+    "message": "What is Backstage?",
+    "description": "The label of footer link with label=What is Backstage? linking to docs/overview/what-is-backstage"
+  },
+  "link.item.label.Getting started": {
+    "message": "Getting started",
+    "description": "The label of footer link with label=Getting started linking to docs/getting-started/"
+  },
+  "link.item.label.Software Catalog": {
+    "message": "Software Catalog",
+    "description": "The label of footer link with label=Software Catalog linking to docs/features/software-catalog/"
+  },
+  "link.item.label.Create a Plugin": {
+    "message": "Create a Plugin",
+    "description": "The label of footer link with label=Create a Plugin linking to docs/plugins/create-a-plugin"
+  },
+  "link.item.label.Designing for Backstage": {
+    "message": "Designing for Backstage",
+    "description": "The label of footer link with label=Designing for Backstage linking to docs/dls/design"
+  },
+  "link.item.label.Support chatroom": {
+    "message": "Support chatroom",
+    "description": "The label of footer link with label=Support chatroom linking to https://discord.gg/backstage-687207715902193673"
+  },
+  "link.item.label.Contributing": {
+    "message": "Contributing",
+    "description": "The label of footer link with label=Contributing linking to https://github.com/backstage/backstage/blob/master/CONTRIBUTING.md"
+  },
+  "link.item.label.Adopting": {
+    "message": "Adopting",
+    "description": "The label of footer link with label=Adopting linking to https://backstage.io/docs/getting-started/"
+  },
+  "link.item.label.Subscribe to our newsletter": {
+    "message": "Subscribe to our newsletter",
+    "description": "The label of footer link with label=Subscribe to our newsletter linking to https://spoti.fi/backstagenewsletter"
+  },
+  "link.item.label.CNCF Incubation": {
+    "message": "CNCF Incubation",
+    "description": "The label of footer link with label=CNCF Incubation linking to https://www.cncf.io/projects/"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/backstage/"
+  },
+  "link.item.label.Assets": {
+    "message": "Assets",
+    "description": "The label of footer link with label=Assets linking to https://github.com/cncf/artwork/tree/main/projects/backstage"
+  },
+  "copyright": {
+    "message": "<p style=\"text-align:center\"><a href=\"https://spotify.github.io/\">Made with ❤️ at Spotify</a></p><p class=\"copyright\">Copyright © 2026 Backstage Project Authors. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our Trademark Usage page: <a href=\"https://www.linuxfoundation.org/trademark-usage\" />https://www.linuxfoundation.org/trademark-usage</a></p>",
+    "description": "The footer copyright"
+  }
+}
