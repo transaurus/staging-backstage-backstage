@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/backstage/backstage",
+  "branch": "master",
+  "docusaurusRoot": "microsite",
+  "configFile": "microsite/docusaurus.config.ts",
+  "translateCommand": "yarn docusaurus write-translations",
+  "buildCommand": "yarn build",
+  "buildOutput": "build",
+  "packageManager": "yarn"
+}
