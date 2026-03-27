@@ -1,0 +1,38 @@
+{
+  "description": "Repository-specific fixes for backstage/backstage",
+  "fixes": {
+    "microsite/sidebars.ts": [
+      {
+        "type": "replace",
+        "find": "    docId?: string;\n  },",
+        "replace": "    docId?: string;\n    key?: string;\n  },",
+        "comment": "Add key? to sidebarElementWithIndex type signature to support unique translation keys"
+      },
+      {
+        "type": "replace",
+        "find": "  const { label, description, differentiator = '' } = element;",
+        "replace": "  const { label, description, differentiator = '', key } = element;",
+        "comment": "Destructure key from element in sidebarElementWithIndex"
+      },
+      {
+        "type": "replace",
+        "find": "  return {\n    type: 'category',\n    label,\n    description,",
+        "replace": "  return {\n    type: 'category',\n    label,\n    ...(key !== undefined && { key }),\n    description,",
+        "comment": "Pass key through in sidebarElementWithIndex return value"
+      },
+      {
+        "type": "replace",
+        "find": "                label: 'Architecture',\n                description: 'Architecture of the backend system.',\n                differentiator: 'backend-system/',",
+        "replace": "                label: 'Architecture',\n                key: 'BackendSystemArchitecture',\n                description: 'Architecture of the backend system.',\n                differentiator: 'backend-system/',",
+        "comment": "Fix duplicate sidebar translation key: backend Architecture needs unique key"
+      },
+      {
+        "type": "replace",
+        "find": "                label: 'Architecture',\n                description: 'Architecture of the frontend system.',\n                differentiator: 'frontend-system/',",
+        "replace": "                label: 'Architecture',\n                key: 'FrontendSystemArchitecture',\n                description: 'Architecture of the frontend system.',\n                differentiator: 'frontend-system/',",
+        "comment": "Fix duplicate sidebar translation key: frontend Architecture needs unique key"
+      }
+    ]
+  },
+  "newFiles": {}
+}
