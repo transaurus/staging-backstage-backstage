@@ -1,0 +1,506 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Overview": {
+    "message": "Overview",
+    "description": "The label for category 'Overview' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Overview.link.generated-index.title": {
+    "message": "Overview",
+    "description": "The generated-index page title for category 'Overview' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category 'Getting Started' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Getting Started.link.generated-index.title": {
+    "message": "Getting Started",
+    "description": "The generated-index page title for category 'Getting Started' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Configuring Backstage": {
+    "message": "Configuring Backstage",
+    "description": "The label for category 'Configuring Backstage' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Configuring Backstage.link.generated-index.title": {
+    "message": "Configuring Backstage",
+    "description": "The generated-index page title for category 'Configuring Backstage' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Deploying Backstage": {
+    "message": "Deploying Backstage",
+    "description": "The label for category 'Deploying Backstage' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Deploying Backstage.link.generated-index.title": {
+    "message": "Deploying Backstage",
+    "description": "The generated-index page title for category 'Deploying Backstage' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Using Backstage": {
+    "message": "Using Backstage",
+    "description": "The label for category 'Using Backstage' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Using Backstage.link.generated-index.title": {
+    "message": "Using Backstage",
+    "description": "The generated-index page title for category 'Using Backstage' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Managing Components": {
+    "message": "Managing Components",
+    "description": "The label for category 'Managing Components' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Managing Components.link.generated-index.title": {
+    "message": "Managing Components",
+    "description": "The generated-index page title for category 'Managing Components' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Core Features": {
+    "message": "Core Features",
+    "description": "The label for category 'Core Features' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Core Features.link.generated-index.title": {
+    "message": "Core Features",
+    "description": "The generated-index page title for category 'Core Features' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.AI": {
+    "message": "AI",
+    "description": "The label for category 'AI' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.AI.link.generated-index.title": {
+    "message": "AI",
+    "description": "The generated-index page title for category 'AI' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Auth and Identity": {
+    "message": "Auth and Identity",
+    "description": "The label for category 'Auth and Identity' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Auth and Identity.link.generated-index.title": {
+    "message": "Auth and Identity",
+    "description": "The generated-index page title for category 'Auth and Identity' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Included providers": {
+    "message": "Included providers",
+    "description": "The label for category 'Included providers' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Included providers.link.generated-index.title": {
+    "message": "Included providers",
+    "description": "The generated-index page title for category 'Included providers' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Kubernetes": {
+    "message": "Kubernetes",
+    "description": "The label for category 'Kubernetes' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Kubernetes.link.generated-index.title": {
+    "message": "Kubernetes",
+    "description": "The generated-index page title for category 'Kubernetes' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Notifications": {
+    "message": "Notifications",
+    "description": "The label for category 'Notifications' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Notifications.link.generated-index.title": {
+    "message": "Notifications",
+    "description": "The generated-index page title for category 'Notifications' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Permissions": {
+    "message": "Permissions",
+    "description": "The label for category 'Permissions' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Permissions.link.generated-index.title": {
+    "message": "Permissions",
+    "description": "The generated-index page title for category 'Permissions' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Tutorial: using Permissions in your plugin": {
+    "message": "Tutorial: using Permissions in your plugin",
+    "description": "The label for category 'Tutorial: using Permissions in your plugin' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Tutorial: using Permissions in your plugin.link.generated-index.title": {
+    "message": "Tutorial: using Permissions in your plugin",
+    "description": "The generated-index page title for category 'Tutorial: using Permissions in your plugin' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Search": {
+    "message": "Search",
+    "description": "The label for category 'Search' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Search.link.generated-index.title": {
+    "message": "Search",
+    "description": "The generated-index page title for category 'Search' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Software Catalog": {
+    "message": "Software Catalog",
+    "description": "The label for category 'Software Catalog' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Software Catalog.link.generated-index.title": {
+    "message": "Software Catalog",
+    "description": "The generated-index page title for category 'Software Catalog' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Software Templates": {
+    "message": "Software Templates",
+    "description": "The label for category 'Software Templates' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Software Templates.link.generated-index.title": {
+    "message": "Software Templates",
+    "description": "The generated-index page title for category 'Software Templates' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.TechDocs": {
+    "message": "TechDocs",
+    "description": "The label for category 'TechDocs' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.TechDocs.link.generated-index.title": {
+    "message": "TechDocs",
+    "description": "The generated-index page title for category 'TechDocs' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Integrations": {
+    "message": "Integrations",
+    "description": "The label for category 'Integrations' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Integrations.link.generated-index.title": {
+    "message": "Integrations",
+    "description": "The generated-index page title for category 'Integrations' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.AWS S3": {
+    "message": "AWS S3",
+    "description": "The label for category 'AWS S3' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.AWS S3.link.generated-index.title": {
+    "message": "AWS S3",
+    "description": "The generated-index page title for category 'AWS S3' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Azure Blob Storage": {
+    "message": "Azure Blob Storage",
+    "description": "The label for category 'Azure Blob Storage' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Azure Blob Storage.link.generated-index.title": {
+    "message": "Azure Blob Storage",
+    "description": "The generated-index page title for category 'Azure Blob Storage' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Azure": {
+    "message": "Azure",
+    "description": "The label for category 'Azure' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Azure.link.generated-index.title": {
+    "message": "Azure",
+    "description": "The generated-index page title for category 'Azure' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Bitbucket Cloud": {
+    "message": "Bitbucket Cloud",
+    "description": "The label for category 'Bitbucket Cloud' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Bitbucket Cloud.link.generated-index.title": {
+    "message": "Bitbucket Cloud",
+    "description": "The generated-index page title for category 'Bitbucket Cloud' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Bitbucket Server": {
+    "message": "Bitbucket Server",
+    "description": "The label for category 'Bitbucket Server' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Bitbucket Server.link.generated-index.title": {
+    "message": "Bitbucket Server",
+    "description": "The generated-index page title for category 'Bitbucket Server' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Datadog": {
+    "message": "Datadog",
+    "description": "The label for category 'Datadog' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Datadog.link.generated-index.title": {
+    "message": "Datadog",
+    "description": "The generated-index page title for category 'Datadog' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Gerrit": {
+    "message": "Gerrit",
+    "description": "The label for category 'Gerrit' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Gerrit.link.generated-index.title": {
+    "message": "Gerrit",
+    "description": "The generated-index page title for category 'Gerrit' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Github": {
+    "message": "Github",
+    "description": "The label for category 'Github' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Github.link.generated-index.title": {
+    "message": "Github",
+    "description": "The generated-index page title for category 'Github' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.GitLab": {
+    "message": "GitLab",
+    "description": "The label for category 'GitLab' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.GitLab.link.generated-index.title": {
+    "message": "GitLab",
+    "description": "The generated-index page title for category 'GitLab' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Gitea": {
+    "message": "Gitea",
+    "description": "The label for category 'Gitea' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Gitea.link.generated-index.title": {
+    "message": "Gitea",
+    "description": "The generated-index page title for category 'Gitea' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Harness": {
+    "message": "Harness",
+    "description": "The label for category 'Harness' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Harness.link.generated-index.title": {
+    "message": "Harness",
+    "description": "The generated-index page title for category 'Harness' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Google GCS": {
+    "message": "Google GCS",
+    "description": "The label for category 'Google GCS' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Google GCS.link.generated-index.title": {
+    "message": "Google GCS",
+    "description": "The generated-index page title for category 'Google GCS' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.LDAP": {
+    "message": "LDAP",
+    "description": "The label for category 'LDAP' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.LDAP.link.generated-index.title": {
+    "message": "LDAP",
+    "description": "The generated-index page title for category 'LDAP' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Okta": {
+    "message": "Okta",
+    "description": "The label for category 'Okta' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Okta.link.generated-index.title": {
+    "message": "Okta",
+    "description": "The generated-index page title for category 'Okta' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Configuration": {
+    "message": "Configuration",
+    "description": "The label for category 'Configuration' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Configuration.link.generated-index.title": {
+    "message": "Configuration",
+    "description": "The generated-index page title for category 'Configuration' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Framework": {
+    "message": "Framework",
+    "description": "The label for category 'Framework' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Framework.link.generated-index.title": {
+    "message": "Framework",
+    "description": "The generated-index page title for category 'Framework' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Backend System": {
+    "message": "Backend System",
+    "description": "The label for category 'Backend System' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Backend System.link.generated-index.title": {
+    "message": "Backend System",
+    "description": "The generated-index page title for category 'Backend System' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.BackendSystemArchitecture": {
+    "message": "Architecture",
+    "description": "The label for category 'Architecture' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.BackendSystemArchitecture.link.generated-index.title": {
+    "message": "Architecture",
+    "description": "The generated-index page title for category 'Architecture' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Building Backends": {
+    "message": "Building Backends",
+    "description": "The label for category 'Building Backends' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Building Backends.link.generated-index.title": {
+    "message": "Building Backends",
+    "description": "The generated-index page title for category 'Building Backends' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Building Plugins & Modules": {
+    "message": "Building Plugins & Modules",
+    "description": "The label for category 'Building Plugins & Modules' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Building Plugins & Modules.link.generated-index.title": {
+    "message": "Building Plugins & Modules",
+    "description": "The generated-index page title for category 'Building Plugins & Modules' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Core Services": {
+    "message": "Core Services",
+    "description": "The label for category 'Core Services' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Core Services.link.generated-index.title": {
+    "message": "Core Services",
+    "description": "The generated-index page title for category 'Core Services' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Frontend System": {
+    "message": "Frontend System",
+    "description": "The label for category 'Frontend System' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Frontend System.link.generated-index.title": {
+    "message": "Frontend System",
+    "description": "The generated-index page title for category 'Frontend System' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.FrontendSystemArchitecture": {
+    "message": "Architecture",
+    "description": "The label for category 'Architecture' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.FrontendSystemArchitecture.link.generated-index.title": {
+    "message": "Architecture",
+    "description": "The generated-index page title for category 'Architecture' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Building Plugins": {
+    "message": "Building Plugins",
+    "description": "The label for category 'Building Plugins' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Building Plugins.link.generated-index.title": {
+    "message": "Building Plugins",
+    "description": "The generated-index page title for category 'Building Plugins' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Building Apps": {
+    "message": "Building Apps",
+    "description": "The label for category 'Building Apps' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Building Apps.link.generated-index.title": {
+    "message": "Building Apps",
+    "description": "The generated-index page title for category 'Building Apps' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Utility APIs": {
+    "message": "Utility APIs",
+    "description": "The label for category 'Utility APIs' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Utility APIs.link.generated-index.title": {
+    "message": "Utility APIs",
+    "description": "The generated-index page title for category 'Utility APIs' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Backstage CLI": {
+    "message": "Backstage CLI",
+    "description": "The label for category 'Backstage CLI' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Backstage CLI.link.generated-index.title": {
+    "message": "Backstage CLI",
+    "description": "The generated-index page title for category 'Backstage CLI' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Local Development": {
+    "message": "Local Development",
+    "description": "The label for category 'Local Development' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Local Development.link.generated-index.title": {
+    "message": "Local Development",
+    "description": "The generated-index page title for category 'Local Development' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.User Interface": {
+    "message": "User Interface",
+    "description": "The label for category 'User Interface' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.User Interface.link.generated-index.title": {
+    "message": "User Interface",
+    "description": "The generated-index page title for category 'User Interface' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.OpenAPI": {
+    "message": "OpenAPI",
+    "description": "The label for category 'OpenAPI' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.OpenAPI.link.generated-index.title": {
+    "message": "OpenAPI",
+    "description": "The generated-index page title for category 'OpenAPI' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Tutorials": {
+    "message": "Tutorials",
+    "description": "The label for category 'Tutorials' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Tutorials.link.generated-index.title": {
+    "message": "Tutorials",
+    "description": "The generated-index page title for category 'Tutorials' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Non-technical": {
+    "message": "Non-technical",
+    "description": "The label for category 'Non-technical' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Non-technical.link.generated-index.title": {
+    "message": "Non-technical",
+    "description": "The generated-index page title for category 'Non-technical' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Technical": {
+    "message": "Technical",
+    "description": "The label for category 'Technical' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Technical.link.generated-index.title": {
+    "message": "Technical",
+    "description": "The generated-index page title for category 'Technical' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Migrations": {
+    "message": "Migrations",
+    "description": "The label for category 'Migrations' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Migrations.link.generated-index.title": {
+    "message": "Migrations",
+    "description": "The generated-index page title for category 'Migrations' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Plugins (Legacy)": {
+    "message": "Plugins (Legacy)",
+    "description": "The label for category 'Plugins (Legacy)' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Plugins (Legacy).link.generated-index.title": {
+    "message": "Plugins (Legacy)",
+    "description": "The generated-index page title for category 'Plugins (Legacy)' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Backends and APIs": {
+    "message": "Backends and APIs",
+    "description": "The label for category 'Backends and APIs' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Backends and APIs.link.generated-index.title": {
+    "message": "Backends and APIs",
+    "description": "The generated-index page title for category 'Backends and APIs' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Testing": {
+    "message": "Testing",
+    "description": "The label for category 'Testing' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Testing.link.generated-index.title": {
+    "message": "Testing",
+    "description": "The generated-index page title for category 'Testing' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Publishing": {
+    "message": "Publishing",
+    "description": "The label for category 'Publishing' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Publishing.link.generated-index.title": {
+    "message": "Publishing",
+    "description": "The generated-index page title for category 'Publishing' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.FAQ": {
+    "message": "FAQ",
+    "description": "The label for category 'FAQ' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.FAQ.link.generated-index.title": {
+    "message": "FAQ",
+    "description": "The generated-index page title for category 'FAQ' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Contribute": {
+    "message": "Contribute",
+    "description": "The label for category 'Contribute' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Contribute.link.generated-index.title": {
+    "message": "Contribute",
+    "description": "The generated-index page title for category 'Contribute' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.References": {
+    "message": "References",
+    "description": "The label for category 'References' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.References.link.generated-index.title": {
+    "message": "References",
+    "description": "The generated-index page title for category 'References' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Designing for Backstage": {
+    "message": "Designing for Backstage",
+    "description": "The label for category 'Designing for Backstage' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Designing for Backstage.link.generated-index.title": {
+    "message": "Designing for Backstage",
+    "description": "The generated-index page title for category 'Designing for Backstage' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Architecture Decision Records (ADRs)": {
+    "message": "Architecture Decision Records (ADRs)",
+    "description": "The label for category 'Architecture Decision Records (ADRs)' in sidebar 'docs'"
+  },
+  "sidebar.docs.category.Architecture Decision Records (ADRs).link.generated-index.title": {
+    "message": "Architecture Decision Records (ADRs)",
+    "description": "The generated-index page title for category 'Architecture Decision Records (ADRs)' in sidebar 'docs'"
+  },
+  "sidebar.releases.category.Release Notes": {
+    "message": "Release Notes",
+    "description": "The label for category 'Release Notes' in sidebar 'releases'"
+  }
+}

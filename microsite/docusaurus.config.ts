@@ -60,6 +60,10 @@ const PatchedRedirectPlugin: typeof RedirectPlugin = (ctx, opts) => {
 };
 
 const defaultOpenApiOptions = {
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "zh-Hans"],
+  },
   hideSendButton: true,
   sidebarOptions: {
     groupPathsBy: 'tag',
